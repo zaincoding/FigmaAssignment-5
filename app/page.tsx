@@ -32,7 +32,7 @@ text-white  p-[10px] rounded-[10px]'>
     <Image
       src="images/rs-group-wrap ⏵ rs-group.svg"
       alt="Layer-1"
-      width={902}
+      width={642}
       height={647}
       className='border'
     />
