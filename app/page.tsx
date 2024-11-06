@@ -11,7 +11,7 @@ export default function Home(){
 
 <div className='flex h-[80%] '>
     <div  className='w-1/2, flex-col justify-center 
-      items-center w-[496px] h-[189px] ml-[176px] my-[116px]'  style={{fontFamily: 'Libre Bodoni'}}>
+      items-center w-[400px] h-[189px] ml-[176px] my-[116px]'  style={{fontFamily: 'Libre Bodoni'}}>
          <h1 style={{ 
          lineHeight:'65.8px'}}
           className='text-[40px] font-bold lineHeight-[65.8px]'>
