@@ -27,7 +27,7 @@ text-white  p-[10px] rounded-[10px]'>
 
     </div>
 
-    <div className="w-1/2 my-10 ml-[300px]">
+    <div className="w-1/2 my-10 ml-[350px]">
 
     <Image
       src="images/rs-group-wrap ⏵ rs-group.svg"
